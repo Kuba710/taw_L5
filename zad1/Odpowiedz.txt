@@ -1,0 +1,2 @@
+Komunikat 'new connection' został wydrukowany w konsoli dzięki funkcji callback przekazanej do metody server.on. 
+Ta funkcja jest wywoływana za każdym razem, gdy serwer otrzymuje nowe połączenie od klienta.
